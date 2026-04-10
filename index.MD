@@ -1,5 +1,3 @@
-# Dylan
-
 Second-year Computer Science student at UBC. I'm interested in robotics, computer vision, and hardware projects.
 
 ---
